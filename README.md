@@ -3,7 +3,7 @@
 This set of tools provides a reasonably secure mechanism for burning ENG on Ethereum, and minting
 SCRT 1-to-1 on the Enigma chain. 
 
-This repo contains the implementation for the [Multisig Setup Proposal](https://hackmd.io/AY1XxpRsQey1E-qB3iSyVg)
+This repo contains an implementation for the [Multisig Setup Proposal](https://hackmd.io/AY1XxpRsQey1E-qB3iSyVg) and is forked from https://github.com/levackt/scrt-swap which is a fork from https://github.com/scotchfinance/scrt-swap.
 
 ## Installation
 
