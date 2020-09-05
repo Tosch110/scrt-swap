@@ -10,7 +10,7 @@ This repo contains the implementation for the [Multisig Setup Proposal](https://
 Clone this repo
 
 ```sh
-    git clone https://github.com/levackt/scrt-swap.git
+    git clone https://github.com/secretnodes/scrt-swap.git
 ```
 
 #### Prerequisites
